@@ -1,7 +1,7 @@
 [
     {
       "id": "01",
-      "name": "MAchine Learning"
+      "name": "Natural language Processing"
     },
     {
       "id": "02",
@@ -19,12 +19,9 @@
       "id": "05",
       "name": "Cloud Computing"
     },
+   
     {
       "id": "06",
-      "name": "Robotics"
-    },
-    {
-      "id": "08",
-      "name": "All News"
+      "name": "All Courses"
     }
   ]
