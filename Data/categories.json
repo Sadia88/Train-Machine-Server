@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "MAchine Learning"
+    },
+    {
+      "id": "02",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "03",
+      "name": "Computer Vision"
+    },
+    {
+      "id": "04",
+      "name": "Soft Computing"
+    },
+    {
+      "id": "05",
+      "name": "Cloud Computing"
+    },
+    {
+      "id": "06",
+      "name": "Robotics"
+    },
+    {
+      "id": "08",
+      "name": "All News"
+    }
+  ]
