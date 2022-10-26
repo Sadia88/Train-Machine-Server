@@ -1,27 +1,112 @@
 [
     {
       "id": "01",
-      "name": "Natural language Processing"
+      "name": "Data Analysis",
+      "learners_enrolled": 806,
+      "rating":  4.4,
+      "title": "Complete Guideline for Data Analysis",
+      "course_fee":  6000,
+      "instructor": {
+        "name": "Samir",
+        "enrollment_start": "2022-11-24 17:27:34",
+        "enrollment_end": "2022-12-24 17:27:34",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQREQi_dh1tEjtKpjG-MbxMxmcmdW-yVMJyXA&usqp=CAU"
+      },
+    
+      "image_url": "https://online.york.ac.uk/wp-content/uploads/2021/07/man-in-a-suit-standing-behind-a-hologram-of-data-analytics.jpg",
+      "details": "Do you want to use your data to make predictions about the future? This training supports you in doing that. To do this, machine learning is the process of creating, evaluating, and implementing predictive algorithms. Before going into these machine learning topics, make sure you are familiar with course 3 of this specialization. This course will build on Course 3 by giving students an overview of a variety of additional machine learning ideas, methods, and algorithms, from fundamental classification to decision trees and clustering. You will learn how to use, evaluate, and understand machine learning algorithms as an alternate approach to answering your research questions by finishing this course."
+   
+
     },
     {
       "id": "02",
-      "name": "Artificial Intelligence"
+      "name": "Artificial Intelligence",
+      "learners_enrolled": 469,
+      "rating":  4.5,
+      "title": "Complete Guideline for Artificial Intelligence",
+      "course_fee":  10000,
+      "instructor": {
+        "name": "Muntasir",
+        "enrollment_start": "2022-12-10 10:27:34",
+        "enrollment_end": "2023-01-10 10:27:34",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSigtU8wujVEREN-x3x6RWwhBEupMrQG6_zoA&usqp=CAU"
+      },
+    
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4jO0Nq2-8XZNBh_kCyEThugNZgZdCTlXRA&usqp=CAU=",
+      "details": "You can take artificial intelligence courses from Train Machine that will guide you through the technologies of AI to enhance business operations. Learn how to use, or perhaps create, your own artificial intelligence framework by taking artificial intelligence classes on Train Machine."
+   
     },
     {
       "id": "03",
-      "name": "Computer Vision"
+      "name": "Computer Vision",
+      "learners_enrolled": 1568,
+      "rating":  4.0,
+      "title": "Complete Guideline for Data Computer Vision",
+      "course_fee":  8000,
+      "instructor": {
+        "name": "Rashed",
+        "enrollment_start": "2022-10-24 12:00:00",
+        "enrollment_end": "2022-12-24 12:00:00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAQx23Ow-U5FLH5DXKt7UXRg3ldvKnqWvIw&usqp=CAU"
+      },
+    
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo1TJ1WBQ-u1tWlt1nQAFEv0lveyJSlffMvQ&usqp=CAU",
+      "details": "An introduction to computer vision is given in this course, along with the basics of image formation, camera image processing architecture, feature detection and matching, color and depth geometry, including stereo, motion estimation and tracking, and classification. For applications such as detecting known models in images, depth recovery from stereo, camera calibration, image stabilization, automatic alignment (e.g. panoramas), tracking, and action identification, we'll create the fundamental techniques. We pay less attention to the machine learning component of CV since that is truly best learnt in an ML course since it is classification theory."
+   
     },
     {
       "id": "04",
-      "name": "Soft Computing"
+      "name": "Soft Computing",
+      "learners_enrolled": 188,
+      "rating":  3.7,
+      "title": "Complete Guideline for Soft Computing",
+      "course_fee":  5500,
+      "instructor": {
+        "name": "Soraiem",
+        "enrollment_start": "2023-01-24 17:27:34",
+        "enrollment_end": "2022-02-24 17:27:34",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHV_g8jaXupqG_dYcDVIn3kF4KIKnfzINag&usqp=CAU"
+      },
+    
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeOVJmiXgh1oUnIJLzjbVK77zQRtr1ndUAsw&usqp=CAU",
+      "details": "The fundamental ideas used in soft computing will be covered in this course. Fuzzy logic (FL) topics will be addressed initially, then Artificial Neural Networks (ANNs), and finally genetic algorithm optimization techniques (GA). Applications of Soft Computing methodologies to a variety of real-world issues will be presented for practical application. In conclusion, this course will expose students to both theoretical concepts and real-world soft computing applications and systems."
+   
     },
     {
       "id": "05",
-      "name": "Cloud Computing"
+      "name": "Cloud Computing",
+      "learners_enrolled": 362,
+      "rating":  3.5,
+      "title": "Complete Guideline for Cloud Computing",
+      "course_fee":  15000,
+      "instructor": {
+        "name": "Noraien",
+        "enrollment_start": "2022-11-24 17:27:34",
+        "enrollment_end": "2022-12-24 17:27:34",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIEjI58_wOjuuE-3dewhTWhnp_bUw6WzAImg&usqp=CAU"
+      },
+    
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJdomNh-46DWVxiHWKfR3y66wkJ-curp8bmg&usqp=CAU",
+      "details": "Our online Cloud Computing courses will give you the tools you need to understand key Cloud Computing ideas and apply its many services."
+   
     },
    
     {
       "id": "06",
-      "name": "All Courses"
+      "name": "Natural language Processing",
+      "learners_enrolled": 2406,
+      "rating":  4.8,
+      "title": "Complete Guideline for Natural language Processing",
+      "course_fee":  12000,
+      "instructor": {
+        "name": "Hasnaien",
+        "enrollment_start": "2022-11-10 15:27:34",
+        "enrollment_end": "2022-12-10 15:27:34",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPIdd1oN3XQW688RIVRCnM_QUk8Ff7xUPcw&usqp=CAU"
+      },
+    
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZP2tHYkSDPQ3y7A3Bp1aB2cCicU7Q5B7Lw&usqp=CAU",
+      "details": "Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP."
+   
     }
   ]
