@@ -28,6 +28,15 @@ app.get('/courses/course/:id', (req, res) => {
   
  })
 
+app.get('/courses/course/checkout/:id', (req, res) => {
+  const _id=req.params.id
+
+     const category_news=categories.find(n=>n.id==_id)
+     res.send(category_news)
+ console.log(category_news)
+  
+ })
+
 
 
 
